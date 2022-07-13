@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://cricketbow.github.io/startpage/</loc>
-	<lastmod>2021-05-11</lastmod>
+	<lastmod>2022-07-13</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-cricketbow.jpg</image:loc>
-	<image:title>CricketBow%20Design</image:title>
+	<image:title>CricketBow Design</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-twitter.jpg</image:loc>
@@ -26,7 +26,7 @@
 	<image:title>YouTube</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://cricketbow.github.io/startpage/img/start-image-yahoo.jpg</image:loc>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-webdesignerdepot.jpg</image:loc>
 	<image:title>Yahoo</image:title>
 	</image:image>
 	<image:image>
@@ -62,12 +62,12 @@
 	<image:title>Macworld</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://cricketbow.github.io/startpage/img/start-image-boredpanda.jpg</image:loc>
-	<image:title>Bored%20Panda</image:title>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-arstechnica.jpg</image:loc>
+	<image:title>Bored Panda</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-laughingsquid.jpg</image:loc>
-	<image:title>Laughing%20Squid</image:title>
+	<image:title>Laughing Squid</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-mashable.jpg</image:loc>
@@ -79,15 +79,15 @@
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-deviantart.jpg</image:loc>
-	<image:title>Deviant%20Art</image:title>
+	<image:title>Deviant Art</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-cgsociety.jpg</image:loc>
-	<image:title>CG%20Society</image:title>
+	<image:title>CG Society</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-metrotimes.jpg</image:loc>
-	<image:title>Metro%20Times</image:title>
+	<image:title>Metro Times</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-squarespace.jpg</image:loc>
@@ -95,19 +95,19 @@
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-creativebloq.jpg</image:loc>
-	<image:title>Creative%20Bloq</image:title>
+	<image:title>Creative Bloq</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-weather.jpg</image:loc>
-	<image:title>Weather%20Channel</image:title>
+	<image:title>Weather Channel</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-webdesignernews.jpg</image:loc>
-	<image:title>Webdesigner%20News</image:title>
+	<image:title>Webdesigner News</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-rottentomatoes.jpg</image:loc>
-	<image:title>Rotten%20Tomatoes</image:title>
+	<image:title>Rotten Tomatoes</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-hoopla.jpg</image:loc>
@@ -115,14 +115,38 @@
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-bloomfield.jpg</image:loc>
-	<image:title>Bloomfield%20Hills</image:title>
+	<image:title>Bloomfield Hills</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-chase.jpg</image:loc>
-	<image:title>Chase%20Bank</image:title>
+	<image:title>Chase Bank</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-yelp.jpg</image:loc>
+	<image:title>Yelp</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-gizmodo.jpg</image:loc>
+	<image:title>Webdesigner News</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-endgadget.jpg</image:loc>
+	<image:title>Rotten Tomatoes</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-verge.jpg</image:loc>
+	<image:title>Hoopla</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-orbitz.jpg</image:loc>
+	<image:title>Bloomfield Hills</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-tineye.jpg</image:loc>
+	<image:title>Chase Bank</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-wikipedia.jpg</image:loc>
 	<image:title>Yelp</image:title>
 	</image:image>
 	<image:image>
