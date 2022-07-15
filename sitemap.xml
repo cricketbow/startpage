@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://cricketbow.github.io/startpage/</loc>
-	<lastmod>2022-07-13</lastmod>
+	<lastmod>2022-07-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -26,7 +26,7 @@
 	<image:title>YouTube</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://cricketbow.github.io/startpage/img/start-image-webdesignerdepot.jpg</image:loc>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-yahoo.jpg</image:loc>
 	<image:title>Yahoo</image:title>
 	</image:image>
 	<image:image>
