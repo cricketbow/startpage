@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://cricketbow.github.io/startpage/</loc>
-	<lastmod>2023-02-17</lastmod>
+	<lastmod>2024-04-23</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -174,12 +174,12 @@
 	<image:title>Metro Times</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://cricketbow.github.io/startpage/img/start-image-colossal.jpg</image:loc>
-	<image:title>Colossal</image:title>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-boredpanda.jpg</image:loc>
+	<image:title>Bored Panda</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://cricketbow.github.io/startpage/img/start-image-colossal.webp</image:loc>
-	<image:title>Colossal</image:title>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-boredpanda.webp</image:loc>
+	<image:title>Bored Panda</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-creativebloq.jpg</image:loc>
@@ -198,12 +198,12 @@
 	<image:title>Weather Channel</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://cricketbow.github.io/startpage/img/start-image-webdesignernews.jpg</image:loc>
-	<image:title>Webdesigner News</image:title>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-webdesignerdepot.jpg</image:loc>
+	<image:title>Webdesigner Depot</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://cricketbow.github.io/startpage/img/start-image-webdesignernews.webp</image:loc>
-	<image:title>Webdesigner News</image:title>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-webdesignerdepot.webp</image:loc>
+	<image:title>Webdesigner Depot</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-dieline.jpg</image:loc>
