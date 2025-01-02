@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://cricketbow.github.io/startpage/</loc>
-	<lastmod>2024-07-12</lastmod>
+	<lastmod>2025-01-02</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -158,12 +158,12 @@
 	<image:title>Deviant Art</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://cricketbow.github.io/startpage/img/start-image-cgsociety.jpg</image:loc>
-	<image:title>CG Society</image:title>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-howtogeek.jpg</image:loc>
+	<image:title>How-To Geek</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://cricketbow.github.io/startpage/img/start-image-cgsociety.webp</image:loc>
-	<image:title>CG Society</image:title>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-howtogeek.webp</image:loc>
+	<image:title>How-To Geek</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-metrotimes.jpg</image:loc>
@@ -278,12 +278,12 @@
 	<image:title>Orbitz</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://cricketbow.github.io/startpage/img/start-image-tineye.jpg</image:loc>
-	<image:title>TinEye</image:title>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-inspiration-grid.jpg</image:loc>
+	<image:title>Inspiration Grid</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://cricketbow.github.io/startpage/img/start-image-tineye.webp</image:loc>
-	<image:title>TinEye</image:title>
+	<image:loc>https://cricketbow.github.io/startpage/img/start-image-inspiration-grid.webp</image:loc>
+	<image:title>Inspiration Grid</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://cricketbow.github.io/startpage/img/start-image-wikipedia.jpg</image:loc>
